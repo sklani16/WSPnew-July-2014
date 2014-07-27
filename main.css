@@ -138,3 +138,9 @@ img.alignleft {
 /**
 * End Vanilla CSS
 */
+
+ /!---------------Background-----------------/
+ 
+ body{
+ 	background-image: url("/Users/LaniMixchic/github/images");
+ }
